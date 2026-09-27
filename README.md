@@ -27,7 +27,6 @@
 ## 🏆 Krediler & Açık Kaynak Teşekkürleri
 - **[Wger](https://wger.de/):** Açık kaynak spor, anatomi ve antrenman veri modelleri için teşekkürler.
 - **[workout-cool](https://github.com/Snouzy/workout-cool):** İnteraktif kas şeması ilhamı için teşekkürler.
-- **[Public APIs](https://github.com/public-apis/public-apis):** Açık kaynak ekosistemi için teşekkürler.
 - **[OpenClaw](https://github.com/openclaw/openclaw):** Proje orkestrasyonu ve otonom iş akışı.
 - **[Google Gemini](https://github.com/google-gemini):** Kodlama ve istemci optimizasyonları.
 - **[VoltAgent / awesome-design-md](https://github.com/VoltAgent/awesome-design-md):** Mistral AI Tasarım Sistemi.
